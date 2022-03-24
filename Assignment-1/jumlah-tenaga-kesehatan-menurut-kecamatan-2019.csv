@@ -1,0 +1,221 @@
+tahun,wilayah,kecamatan,tenaga_kesehatan,jumlah
+2019,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,dokter,17
+2019,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,dokter,21
+2019,Jakarta Selatan,CILANDAK,dokter,640
+2019,Jakarta Selatan,JAGAKARSA ,dokter,262
+2019,Jakarta Selatan,KEBAYORAN BARU,dokter,507
+2019,Jakarta Selatan,KEBAYORAN LAMA,dokter,382
+2019,Jakarta Selatan,MAMPANG PRAPATAN,dokter,175
+2019,Jakarta Selatan,PANCORAN,dokter,312
+2019,Jakarta Selatan,PASAR MINGGU,dokter,346
+2019,Jakarta Selatan,PESANGGRAHAN,dokter,278
+2019,Jakarta Selatan,SETIABUDI,dokter,590
+2019,Jakarta Selatan,TEBET,dokter,158
+2019,Jakarta Timur,JATINEGARA,dokter,373
+2019,Jakarta Timur,MATRAMAN,dokter,231
+2019,Jakarta Timur,PULOGADUNG,dokter,296
+2019,Jakarta Timur,CAKUNG,dokter,185
+2019,Jakarta Timur,DUREN SAWIT,dokter,262
+2019,Jakarta Timur,KRAMAT JATI,dokter,294
+2019,Jakarta Timur,MAKASAR,dokter,341
+2019,Jakarta Timur,CIPAYUNG,dokter,194
+2019,Jakarta Timur,PASAR REBO,dokter,291
+2019,Jakarta Timur,CIRACAS,dokter,252
+2019,Jakarta Pusat,Cempaka Putih,dokter,502
+2019,Jakarta Pusat,Johar Baru,dokter,76
+2019,Jakarta Pusat,Menteng,dokter,514
+2019,Jakarta Pusat,Tanah Abang,dokter,468
+2019,Jakarta Pusat,Kemayoran,dokter,493
+2019,Jakarta Pusat,Senen,dokter,1498
+2019,Jakarta Pusat,Sawah Besar,dokter,296
+2019,Jakarta Pusat,Gambir,dokter,444
+2019,Jakarta Barat,KEMBANGAN,dokter,47
+2019,Jakarta Barat,KEBON JERUK,dokter,57
+2019,Jakarta Barat,PALMERAH,dokter,40
+2019,Jakarta Barat,GROGOL PETAMBURAN,dokter,42
+2019,Jakarta Barat,TAMBORA,dokter,43
+2019,Jakarta Barat,TAMAN SARI,dokter,29
+2019,Jakarta Barat,CENGKARENG,dokter,64
+2019,Jakarta Barat,KALIDERES,dokter,56
+2019,Jakarta Utara,Penjaringan,dokter,795
+2019,Jakarta Utara,Pademangan,dokter,98
+2019,Jakarta Utara,Tanjung Priok,dokter,648
+2019,Jakarta Utara,Koja,dokter,475
+2019,Jakarta Utara,Kelapa Gading,dokter,424
+2019,Jakarta Utara,Cilincing,dokter,324
+2019,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,perawat,33
+2019,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,perawat,32
+2019,Jakarta Selatan,CILANDAK,perawat,1244
+2019,Jakarta Selatan,JAGAKARSA ,perawat,281
+2019,Jakarta Selatan,KEBAYORAN BARU,perawat,724
+2019,Jakarta Selatan,KEBAYORAN LAMA,perawat,599
+2019,Jakarta Selatan,MAMPANG PRAPATAN,perawat,114
+2019,Jakarta Selatan,PANCORAN,perawat,215
+2019,Jakarta Selatan,PASAR MINGGU,perawat,519
+2019,Jakarta Selatan,PESANGGRAHAN,perawat,135
+2019,Jakarta Selatan,SETIABUDI,perawat,669
+2019,Jakarta Selatan,TEBET,perawat,137
+2019,Jakarta Timur,JATINEGARA,perawat,596
+2019,Jakarta Timur,MATRAMAN,perawat,193
+2019,Jakarta Timur,PULOGADUNG,perawat,206
+2019,Jakarta Timur,CAKUNG,perawat,272
+2019,Jakarta Timur,DUREN SAWIT,perawat,248
+2019,Jakarta Timur,KRAMAT JATI,perawat,710
+2019,Jakarta Timur,MAKASAR,perawat,521
+2019,Jakarta Timur,CIPAYUNG,perawat,230
+2019,Jakarta Timur,PASAR REBO,perawat,628
+2019,Jakarta Timur,CIRACAS,perawat,225
+2019,Jakarta Pusat,Cempaka Putih,perawat,679
+2019,Jakarta Pusat,Johar Baru,perawat,45
+2019,Jakarta Pusat,Menteng,perawat,693
+2019,Jakarta Pusat,Tanah Abang,perawat,485
+2019,Jakarta Pusat,Kemayoran,perawat,476
+2019,Jakarta Pusat,Senen,perawat,3639
+2019,Jakarta Pusat,Sawah Besar,perawat,267
+2019,Jakarta Pusat,Gambir,perawat,1274
+2019,Jakarta Barat,KEMBANGAN,perawat,43
+2019,Jakarta Barat,KEBON JERUK,perawat,51
+2019,Jakarta Barat,PALMERAH,perawat,43
+2019,Jakarta Barat,GROGOL PETAMBURAN,perawat,35
+2019,Jakarta Barat,TAMBORA,perawat,51
+2019,Jakarta Barat,TAMAN SARI,perawat,26
+2019,Jakarta Barat,CENGKARENG,perawat,59
+2019,Jakarta Barat,KALIDERES,perawat,68
+2019,Jakarta Utara,Penjaringan,perawat,853
+2019,Jakarta Utara,Pademangan,perawat,89
+2019,Jakarta Utara,Tanjung Priok,perawat,809
+2019,Jakarta Utara,Koja,perawat,1244
+2019,Jakarta Utara,Kelapa Gading,perawat,332
+2019,Jakarta Utara,Cilincing,perawat,354
+2019,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,bidan,23
+2019,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,bidan,22
+2019,Jakarta Selatan,CILANDAK,bidan,173
+2019,Jakarta Selatan,JAGAKARSA ,bidan,212
+2019,Jakarta Selatan,KEBAYORAN BARU,bidan,206
+2019,Jakarta Selatan,KEBAYORAN LAMA,bidan,162
+2019,Jakarta Selatan,MAMPANG PRAPATAN,bidan,83
+2019,Jakarta Selatan,PANCORAN,bidan,103
+2019,Jakarta Selatan,PASAR MINGGU,bidan,170
+2019,Jakarta Selatan,PESANGGRAHAN,bidan,94
+2019,Jakarta Selatan,SETIABUDI,bidan,105
+2019,Jakarta Selatan,TEBET,bidan,61
+2019,Jakarta Timur,JATINEGARA,bidan,76
+2019,Jakarta Timur,MATRAMAN,bidan,79
+2019,Jakarta Timur,PULOGADUNG,bidan,110
+2019,Jakarta Timur,CAKUNG,bidan,97
+2019,Jakarta Timur,DUREN SAWIT,bidan,135
+2019,Jakarta Timur,KRAMAT JATI,bidan,151
+2019,Jakarta Timur,MAKASAR,bidan,150
+2019,Jakarta Timur,CIPAYUNG,bidan,135
+2019,Jakarta Timur,PASAR REBO,bidan,124
+2019,Jakarta Timur,CIRACAS,bidan,105
+2019,Jakarta Pusat,Cempaka Putih,bidan,107
+2019,Jakarta Pusat,Johar Baru,bidan,42
+2019,Jakarta Pusat,Menteng,bidan,116
+2019,Jakarta Pusat,Tanah Abang,bidan,96
+2019,Jakarta Pusat,Kemayoran,bidan,218
+2019,Jakarta Pusat,Senen,bidan,224
+2019,Jakarta Pusat,Sawah Besar,bidan,68
+2019,Jakarta Pusat,Gambir,bidan,199
+2019,Jakarta Barat,KEMBANGAN,bidan,40
+2019,Jakarta Barat,KEBON JERUK,bidan,51
+2019,Jakarta Barat,PALMERAH,bidan,43
+2019,Jakarta Barat,GROGOL PETAMBURAN,bidan,40
+2019,Jakarta Barat,TAMBORA,bidan,47
+2019,Jakarta Barat,TAMAN SARI,bidan,30
+2019,Jakarta Barat,CENGKARENG,bidan,60
+2019,Jakarta Barat,KALIDERES,bidan,62
+2019,Jakarta Utara,Penjaringan,bidan,218
+2019,Jakarta Utara,Pademangan,bidan,46
+2019,Jakarta Utara,Tanjung Priok,bidan,227
+2019,Jakarta Utara,Koja,bidan,242
+2019,Jakarta Utara,Kelapa Gading,bidan,64
+2019,Jakarta Utara,Cilincing,bidan,203
+2019,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,farmasi,9
+2019,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,farmasi,8
+2019,Jakarta Selatan,CILANDAK,farmasi,303
+2019,Jakarta Selatan,JAGAKARSA ,farmasi,116
+2019,Jakarta Selatan,KEBAYORAN BARU,farmasi,215
+2019,Jakarta Selatan,KEBAYORAN LAMA,farmasi,154
+2019,Jakarta Selatan,MAMPANG PRAPATAN,farmasi,73
+2019,Jakarta Selatan,PANCORAN,farmasi,74
+2019,Jakarta Selatan,PASAR MINGGU,farmasi,153
+2019,Jakarta Selatan,PESANGGRAHAN,farmasi,60
+2019,Jakarta Selatan,SETIABUDI,farmasi,223
+2019,Jakarta Selatan,TEBET,farmasi,38
+2019,Jakarta Timur,JATINEGARA,farmasi,100
+2019,Jakarta Timur,MATRAMAN,farmasi,39
+2019,Jakarta Timur,PULOGADUNG,farmasi,48
+2019,Jakarta Timur,CAKUNG,farmasi,65
+2019,Jakarta Timur,DUREN SAWIT,farmasi,107
+2019,Jakarta Timur,KRAMAT JATI,farmasi,94
+2019,Jakarta Timur,MAKASAR,farmasi,116
+2019,Jakarta Timur,CIPAYUNG,farmasi,92
+2019,Jakarta Timur,PASAR REBO,farmasi,87
+2019,Jakarta Timur,CIRACAS,farmasi,57
+2019,Jakarta Pusat,Cempaka Putih,farmasi,122
+2019,Jakarta Pusat,Johar Baru,farmasi,15
+2019,Jakarta Pusat,Menteng,farmasi,148
+2019,Jakarta Pusat,Tanah Abang,farmasi,107
+2019,Jakarta Pusat,Kemayoran,farmasi,111
+2019,Jakarta Pusat,Senen,farmasi,445
+2019,Jakarta Pusat,Sawah Besar,farmasi,43
+2019,Jakarta Pusat,Gambir,farmasi,124
+2019,Jakarta Barat,KEMBANGAN,farmasi,2
+2019,Jakarta Barat,KEBON JERUK,farmasi,7
+2019,Jakarta Barat,PALMERAH,farmasi,5
+2019,Jakarta Barat,GROGOL PETAMBURAN,farmasi,4
+2019,Jakarta Barat,TAMBORA,farmasi,5
+2019,Jakarta Barat,TAMAN SARI,farmasi,3
+2019,Jakarta Barat,CENGKARENG,farmasi,27
+2019,Jakarta Barat,KALIDERES,farmasi,15
+2019,Jakarta Utara,Penjaringan,farmasi,236
+2019,Jakarta Utara,Pademangan,farmasi,76
+2019,Jakarta Utara,Tanjung Priok,farmasi,198
+2019,Jakarta Utara,Koja,farmasi,194
+2019,Jakarta Utara,Kelapa Gading,farmasi,210
+2019,Jakarta Utara,Cilincing,farmasi,94
+2019,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,ahli_gizi,2
+2019,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,ahli_gizi,5
+2019,Jakarta Selatan,CILANDAK,ahli_gizi,54
+2019,Jakarta Selatan,JAGAKARSA ,ahli_gizi,35
+2019,Jakarta Selatan,KEBAYORAN BARU,ahli_gizi,29
+2019,Jakarta Selatan,KEBAYORAN LAMA,ahli_gizi,19
+2019,Jakarta Selatan,MAMPANG PRAPATAN,ahli_gizi,11
+2019,Jakarta Selatan,PANCORAN,ahli_gizi,17
+2019,Jakarta Selatan,PASAR MINGGU,ahli_gizi,24
+2019,Jakarta Selatan,PESANGGRAHAN,ahli_gizi,11
+2019,Jakarta Selatan,SETIABUDI,ahli_gizi,24
+2019,Jakarta Selatan,TEBET,ahli_gizi,12
+2019,Jakarta Timur,JATINEGARA,ahli_gizi,22
+2019,Jakarta Timur,MATRAMAN,ahli_gizi,10
+2019,Jakarta Timur,PULOGADUNG,ahli_gizi,14
+2019,Jakarta Timur,CAKUNG,ahli_gizi,12
+2019,Jakarta Timur,DUREN SAWIT,ahli_gizi,13
+2019,Jakarta Timur,KRAMAT JATI,ahli_gizi,29
+2019,Jakarta Timur,MAKASAR,ahli_gizi,24
+2019,Jakarta Timur,CIPAYUNG,ahli_gizi,27
+2019,Jakarta Timur,PASAR REBO,ahli_gizi,24
+2019,Jakarta Timur,CIRACAS,ahli_gizi,12
+2019,Jakarta Pusat,Cempaka Putih,ahli_gizi,33
+2019,Jakarta Pusat,Johar Baru,ahli_gizi,8
+2019,Jakarta Pusat,Menteng,ahli_gizi,24
+2019,Jakarta Pusat,Tanah Abang,ahli_gizi,29
+2019,Jakarta Pusat,Kemayoran,ahli_gizi,22
+2019,Jakarta Pusat,Senen,ahli_gizi,123
+2019,Jakarta Pusat,Sawah Besar,ahli_gizi,8
+2019,Jakarta Pusat,Gambir,ahli_gizi,22
+2019,Jakarta Barat,KEMBANGAN,ahli_gizi,3
+2019,Jakarta Barat,KEBON JERUK,ahli_gizi,10
+2019,Jakarta Barat,PALMERAH,ahli_gizi,11
+2019,Jakarta Barat,GROGOL PETAMBURAN,ahli_gizi,9
+2019,Jakarta Barat,TAMBORA,ahli_gizi,10
+2019,Jakarta Barat,TAMAN SARI,ahli_gizi,8
+2019,Jakarta Barat,CENGKARENG,ahli_gizi,4
+2019,Jakarta Barat,KALIDERES,ahli_gizi,8
+2019,Jakarta Utara,Penjaringan,ahli_gizi,37
+2019,Jakarta Utara,Pademangan,ahli_gizi,7
+2019,Jakarta Utara,Tanjung Priok,ahli_gizi,33
+2019,Jakarta Utara,Koja,ahli_gizi,34
+2019,Jakarta Utara,Kelapa Gading,ahli_gizi,32
+2019,Jakarta Utara,Cilincing,ahli_gizi,19
